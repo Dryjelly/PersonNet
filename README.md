@@ -8,7 +8,5 @@
 
 ## Test Result
 <p align="center">
-  <img src="readme/result_1.png" alt="model" style="width:800px;"/>
-  <img src="readme/result_2.png" alt="model" style="width:800px;"/>
   <img src="readme/result_3.png" alt="model" style="width:800px;"/>
 </p>   
